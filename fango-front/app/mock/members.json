@@ -1,0 +1,6 @@
+[
+  { "id": "0", "name": "Ruby", "image": "/ruby.svg" },
+  { "id": "1", "name": "Emerald", "image": "/emerald.svg" },
+  { "id": "2", "name": "Opal", "image": "/opal.svg" },
+  { "id": "3", "name": "Topaz", "image": "/topaz.svg" }
+]

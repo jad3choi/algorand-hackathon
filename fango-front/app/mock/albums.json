@@ -1,0 +1,9 @@
+[
+  { "id": "0", "name": "Eclipse", "image": "/eclipse.svg", "href": "/drop" },
+  {
+    "id": "1",
+    "name": "Dream Catcher",
+    "image": "/dreamcatcher.svg",
+    "href": "/artist"
+  }
+]

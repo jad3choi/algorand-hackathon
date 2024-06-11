@@ -1,0 +1,10 @@
+[
+  { "id": "0", "name": "Bliss", "image": "/artist.svg", "href": "/artist" },
+  { "id": "1", "name": "Artist", "image": "/empty.svg", "href": "/" },
+  { "id": "2", "name": "Artist", "image": "/empty.svg", "href": "/" },
+  { "id": "3", "name": "Artist", "image": "/empty.svg", "href": "/" },
+  { "id": "4", "name": "Artist", "image": "/empty.svg", "href": "/" },
+  { "id": "5", "name": "Artist", "image": "/empty.svg", "href": "/" },
+  { "id": "6", "name": "Artist", "image": "/empty.svg", "href": "/" },
+  { "id": "7", "name": "Artist", "image": "/empty.svg", "href": "/" }
+]
